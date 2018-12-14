@@ -24,20 +24,16 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-*Ecole secondaire*, orientation \hfill 2017
+*Athénée Royal de Braine-le-comte*, orientation scientifique et mathématique \hfill 2017
+
+*Académie de Braine-le-comte*, Diplôme de solfège
 
 
 # EMPLOIS
 
 *Job étudiant:*
 
- > Activité réalisée \hfill 2017--2018
-
-*Autre emploi:*
-
- > Rôle 2 \hfill 2016--2018
- 
- > Rôle 1 \hfill 2015
+ > Gestion de la presse dans un commerce \hfill juillet-août 2017
 
 
 # PUBLICATIONS
@@ -45,7 +41,6 @@ urlcolor: blue
 ## **Articles scientifiques**
 
 ...
-
 
 ## **Livres**
 
