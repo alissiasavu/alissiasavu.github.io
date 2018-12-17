@@ -24,30 +24,20 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-<<<<<<< HEAD
 *Athénée Royal Jules Bordet*, diplomée en orientation scientifique \hfill 2017
 
 *Académie*, diplomée en éducation musicale \hfill 2014
-=======
-*Athénée Royal de Braine-le-comte*, orientation scientifique et mathématique \hfill 2017
-
-*Académie de Braine-le-comte*, Diplôme de solfège
->>>>>>> 325a0c2cfdc66813b820762f2255cc218367b574
 
 
 # EMPLOIS
 
 *Job étudiant:*
 
-<<<<<<< HEAD
  > Gestion et organisation de la section presse d'un commerce \hfill  juillet-août 2017
 
 *Autre emploi:*
 
  > Professeur particulier de mathématique \hfill 2017-2018
-=======
- > Gestion de la presse dans un commerce \hfill juillet-août 2017
->>>>>>> 325a0c2cfdc66813b820762f2255cc218367b574
 
 
 # PUBLICATIONS
@@ -55,6 +45,7 @@ urlcolor: blue
 ## **Articles scientifiques**
 
 ...
+
 
 ## **Livres**
 
